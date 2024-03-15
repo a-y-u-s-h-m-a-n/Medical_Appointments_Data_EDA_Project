@@ -1,1 +1,1 @@
-# Medical_Appointments_Data_EDA_Project
+# Medical Appointments Data EDA Project
